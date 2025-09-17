@@ -49,3 +49,5 @@
 - Ensure Microsoft Edge browser is installed for Selenium scraping.
 - The backend uses Selenium with Edge WebDriver for scraping.
 - For any scraping issues, check the backend logs.
+
+Made by Shreyash Vinchurkar
